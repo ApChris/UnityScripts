@@ -5,8 +5,6 @@ using UnityEngine.AI;
 
 public class CursorMovementP : MonoBehaviour
 {
-    [SerializeField] Transform target;
-
     Ray lastRay;
 
     void Update()
