@@ -5,7 +5,6 @@ using UnityEngine.AI;
 
 namespace RPG.Movement
 {
-    // MonoBehaviour is the base class from which every Unity script derives.
     public class CursorMovementHuman : MonoBehaviour
     {
         Ray lastRay;
